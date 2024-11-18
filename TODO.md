@@ -3,7 +3,7 @@
 This is my todo list for the course
 
 - Learn the course
-- Reply to emails 
+- ~~Reply to emails
 - Get lunch
 
 #to save this type ctrl+s
