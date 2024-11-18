@@ -1,0 +1,6 @@
+*.csv
+temp/  
+##this means it is a directory and this directory will be ignored
+*.xls
+
+##when * is addedd git will ignore these files. 
