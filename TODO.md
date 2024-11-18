@@ -7,3 +7,6 @@ This is my todo list for the course
 - Get lunch
 
 #to save this type ctrl+s
+# to open file do ctrl+p and then type open file
+
+  -  edit shinyapp
